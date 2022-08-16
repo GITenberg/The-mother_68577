@@ -1,0 +1,39 @@
+_repo: The-mother_68577
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buck, Pearl S. (Pearl Sydenstricker)
+    aliases:
+    - 賽珍珠
+    - Buck, Pearl Sydenstricker
+    - 赛珍珠
+    - Walsh, Pearl Sydenstricker Buck
+    birthdate: 1892
+    deathdate: 1973
+    gutenberg_agent_id: '54836'
+    url: http://www.gutenberg.org/2009/agents/54836
+    wikipedia: https://en.wikipedia.org/wiki/Pearl_S._Buck
+description: Third volume in the Good earth trilogy.
+gutenberg_issued: '2022-07-21'
+identifiers:
+  gutenberg: '68577'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015035366403
+pgterms:marc905: 20210219014843buck
+pgterms:marc906: '1934'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :The John Day Company,1934.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Communism -- Fiction'
+- !lcsh 'Women peasants -- Fiction'
+- GITenberg
+title: The mother
+url: http://www.gutenberg.org/ebooks/68577
